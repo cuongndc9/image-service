@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # image-service
 
 🚀🖼️ A minimal service for uploading image.
